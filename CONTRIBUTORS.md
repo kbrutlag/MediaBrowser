@@ -13,9 +13,11 @@
  - [SivaramAdhiappan](https://github.com/shivaram1190)
  - [CWatkinsNash](https://github.com/CWatkinsNash)
  - [sfnetwork](https://github.com/sfnetwork)
- - [Logos302] (https://github.com/Logos302)
+ - [Logos302](https://github.com/Logos302)
  - [TheWorkz](https://github.com/TheWorkz)
  - [mboehler](https://github.com/mboehler)
  - [KaHooli](https://github.com/KaHooli)
  - [xzener](https://github.com/xzener)
- - [CBers] (https://github.com/CBers)
+ - [CBers](https://github.com/CBers)
+ - [kbrutlag](https://github.com/kbrutlag)
+ - 
